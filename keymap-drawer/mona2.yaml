@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - EP ON
+  - BT CLR ALL
   - H
   - J
   - K
@@ -27,8 +27,8 @@ layers:
   - C
   - V
   - B
-  - F14
-  - F15
+  - {t: BT, h: '0'}
+  - {t: BT, h: '1'}
   - N
   - M
   - ','
