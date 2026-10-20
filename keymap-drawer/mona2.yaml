@@ -16,33 +16,33 @@ layers:
   - D
   - F
   - G
-  - BT CLR ALL
+  - {t: ▽, type: trans}
   - H
   - J
   - K
   - L
-  - ;
-  - {t: Z, h: LEFT SHIFT}
+  - '-'
+  - Z
   - X
   - C
   - V
   - B
-  - {t: BT, h: '0'}
-  - {t: BT, h: '1'}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - N
   - M
   - ','
   - .
   - /
-  - LCTRL
-  - LEFT WIN
-  - F16
-  - BACKSPACE
-  - {t: ENTER, h: '2'}
-  - {t: '&to_layer_0 LANG2', h: '3'}
-  - {t: '&to_layer_0 LANG1', h: '3'}
-  - {t: SPACE, h: '1'}
-  - LEFT ALT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LEFT COMMAND
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   '1':
   - '1'
   - '2'
@@ -66,7 +66,7 @@ layers:
   - {t: ▽, type: trans}
   - \
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP 1
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -84,7 +84,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '2':
   - '!'
@@ -124,7 +124,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -168,7 +168,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
