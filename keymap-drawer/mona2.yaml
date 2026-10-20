@@ -39,16 +39,16 @@ layers:
   - {t: ▽, type: trans}
   - LEFT COMMAND
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: A, h: '1'}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '1':
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
+  - {t: ▽, type: trans}
+  - KP 7
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '6'
   - '7'
   - '8'
@@ -56,8 +56,8 @@ layers:
   - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '['
-  - ']'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -66,7 +66,7 @@ layers:
   - {t: ▽, type: trans}
   - \
   - {t: ▽, type: trans}
-  - KP 1
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -82,7 +82,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
