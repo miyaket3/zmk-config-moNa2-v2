@@ -40,9 +40,9 @@ layers:
   - LEFT COMMAND
   - {t: ▽, type: trans}
   - {t: A, h: '1'}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ENTER
+  - SPACE
+  - BACKSPACE
   '1':
   - KP PLUS
   - '7'
